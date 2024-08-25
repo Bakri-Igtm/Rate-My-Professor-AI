@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. John Doe",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Dr. Doe explains concepts well and is always available for extra help."
+      },
+      {
+        "professor": "Dr. Lisa Smith",
+        "subject": "English Literature",
+        "stars": 5,
+        "review": "Dr. Smith is passionate about literature and makes the classes engaging."
+      },
+      {
+        "professor": "Prof. Michael Johnson",
+        "subject": "History",
+        "stars": 3,
+        "review": "Prof. Johnson knows his subject well, but his lectures can be a bit dry."
+      },
+      {
+        "professor": "Dr. Emily Brown",
+        "subject": "Biology",
+        "stars": 4,
+        "review": "Dr. Brown is very knowledgeable and always encourages questions."
+      },
+      {
+        "professor": "Prof. David Williams",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Prof. Williams is excellent at breaking down complex programming concepts."
+      },
+      {
+        "professor": "Dr. Sarah Davis",
+        "subject": "Psychology",
+        "stars": 2,
+        "review": "Dr. Davis is tough on grading and doesn't provide much feedback."
+      },
+      {
+        "professor": "Dr. Richard Taylor",
+        "subject": "Chemistry",
+        "stars": 3,
+        "review": "Dr. Taylor's classes are challenging, but you learn a lot if you keep up."
+      },
+      {
+        "professor": "Prof. Jessica Moore",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Prof. Moore creates a great classroom environment and encourages discussion."
+      },
+      {
+        "professor": "Dr. Robert Anderson",
+        "subject": "Political Science",
+        "stars": 5,
+        "review": "Dr. Anderson is an expert in his field and makes complex topics accessible."
+      },
+      {
+        "professor": "Prof. Karen Martinez",
+        "subject": "Philosophy",
+        "stars": 4,
+        "review": "Prof. Martinez challenges students to think critically about various topics."
+      },
+      {
+        "professor": "Dr. James Thomas",
+        "subject": "Economics",
+        "stars": 3,
+        "review": "Dr. Thomas provides clear explanations, but the material can be overwhelming."
+      },
+      {
+        "professor": "Prof. William Jackson",
+        "subject": "Physics",
+        "stars": 5,
+        "review": "Prof. Jackson makes physics fun and provides great examples during lectures."
+      },
+      {
+        "professor": "Dr. Patricia White",
+        "subject": "Education",
+        "stars": 4,
+        "review": "Dr. White is supportive and encourages future educators to think outside the box."
+      },
+      {
+        "professor": "Dr. Christopher Harris",
+        "subject": "Art",
+        "stars": 5,
+        "review": "Dr. Harris brings creativity and passion to every class. Highly recommend!"
+      },
+      {
+        "professor": "Prof. Elizabeth Clark",
+        "subject": "Music",
+        "stars": 3,
+        "review": "Prof. Clark knows her subject well, but the coursework is very demanding."
+      },
+      {
+        "professor": "Dr. Steven Lewis",
+        "subject": "Anthropology",
+        "stars": 4,
+        "review": "Dr. Lewis makes the subject fascinating with real-world examples."
+      },
+      {
+        "professor": "Prof. Nancy Walker",
+        "subject": "Nursing",
+        "stars": 5,
+        "review": "Prof. Walker is a great mentor for nursing students and provides practical advice."
+      },
+      {
+        "professor": "Dr. Daniel Hall",
+        "subject": "Business Administration",
+        "stars": 4,
+        "review": "Dr. Hall brings his real-world business experience into the classroom."
+      },
+      {
+        "professor": "Prof. Laura Young",
+        "subject": "Criminal Justice",
+        "stars": 5,
+        "review": "Prof. Young is knowledgeable and provides great case studies for discussion."
+      },
+      {
+        "professor": "Dr. George King",
+        "subject": "Environmental Science",
+        "stars": 3,
+        "review": "Dr. King is passionate about the environment, but his tests are quite difficult."
+      }
+    ]
+  }
+  
